@@ -1,0 +1,11 @@
+[flake8]
+
+# E501 line too long (83 > 79 characters)
+# F821 undefined name '_'
+
+exclude = .git
+
+per-file-ignores =
+    ./g.message.stdout.py: F821
+
+max-line-length = 88
