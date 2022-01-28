@@ -4,7 +4,7 @@
 #
 # MODULE:       g.message.stdout
 # AUTHOR(S):    Anika Weinmann
-# PURPOSE:      This module writes a message to stdout
+# PURPOSE:      This module writes a message to stdout instead of the default stderr
 #
 # COPYRIGHT:    (C) 2021-2022 by mundialis GmbH & Co. KG and the GRASS Development Team
 #
